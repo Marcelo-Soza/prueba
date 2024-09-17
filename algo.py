@@ -1,0 +1,2 @@
+casa="nose"
+tusnalgas="mevale"
