@@ -1,2 +1,2 @@
-casa="nose"
-tusnalgas="mevale"
+casa="por aqui"
+tusnalgas="las tuyas"
