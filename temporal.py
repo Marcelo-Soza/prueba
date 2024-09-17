@@ -1,2 +1,0 @@
-casa="nose"
-hogar="algo"
