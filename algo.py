@@ -1,2 +1,2 @@
-casa="nose"
-tusnalgas="mevale"
+casa="11"
+tusnalgas="111"
